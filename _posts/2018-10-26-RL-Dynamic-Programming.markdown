@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "动态规划"
+title:  "强化学习之动态规划"
 date:   2018-10-26 20:11:32 +0010
 categories: notes
 ---

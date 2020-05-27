@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "强化学习--三类学习算法在GPI中的差异"
+title:  "强化学习-三类学习算法在GPI中的差异"
 date:   2018-11-27 21:21:22 +0500
 categories: notes
 ---
